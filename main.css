@@ -382,5 +382,5 @@ template {
 .main_1yDOB{grid-area:main;display:flex}
 .footer_2Jnpj{width:100%;height:100%;grid-area:footer;display:flex}
 .aside_27urt{width:15%;height:100%;background-color:#1c1c23}@media screen and (max-width: 830px){.aside_27urt{display:none}}.help_MT7FH{height:90%}
-.section_3yHJr{width:85%;height:100%;display:flex;justify-content:flex-end;align-items:center;background-color:#232323}@media screen and (max-width: 830px){.section_3yHJr{width:100%}}.text_J3BcF{margin-right:6vw;font-size:1.1rem;color:#fff}
+.section_3yHJr{width:85%;height:100%;display:flex;justify-content:flex-end;align-items:center;background-color:#232323}@media screen and (max-width: 830px){.section_3yHJr{width:100%}}.text_J3BcF{margin-right:6vw;font-size:.7rem;color:#fff}
 .app_358qY{display:grid;grid-template-columns:1fr;grid-template-rows:10vh minmax(85vh, max-content) 5vh;grid-template-areas:"header" "main" "footer"}
